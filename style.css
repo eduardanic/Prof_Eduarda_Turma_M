@@ -1,0 +1,29 @@
+body {
+    margin-top: 05%;
+    background-color: #8f8b83b6;
+    margin-left: 05%;
+    margin-right: 05%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: #0c0c0cea;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(238, 202, 43)
+}
+
+h2 {   
+    color: #0c0c0cea;
+    background-color: rgb(238, 202, 43);
+    font-size: 30px;
+    text-align: center;
+    padding: 6px;
+}
+
+p {  
+    text-align: justify;
+    font-size: 25px;
+    color: #0c0c0cea;
+}
