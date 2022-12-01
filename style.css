@@ -1,9 +1,9 @@
 body {
-    margin-top: 05%;
     background-color: #8f8b83b6;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 05%;
     margin-left: 05%;
     margin-right: 05%;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -11,15 +11,17 @@ h1 {
     text-align: center;
     font-size: 60px;
     font-weight: bold;
-    color: rgb(238, 202, 43)
+    color: rgb(238, 202, 43);
+    padding: 15px;
+    margin-bottom: 50px ;
 }
 
 h2 {   
     color: #0c0c0cea;
-    background-color: rgb(102, 91, 40);
+    background-color: rgb(238, 202, 43);
     font-size: 30px;
     text-align: center;
-    padding: 6px;
+    padding: 20px;
 }
 
 p {  
@@ -27,3 +29,51 @@ p {
     font-size: 25px;
     color: #0c0c0cea;
 }
+
+#paragrafo1 {
+    color:rgb(180, 160, 71);
+    background-color: black ;
+    text-align: center;
+}
+
+.nossosencontros {
+    background-color: rgb(238, 202, 43);
+
+}
+
+.iten {
+    text-align:left;
+    font-size: 25px;
+    color: #0c0c0cea;
+    display: inline-block;
+    width: 43%;
+    height:43%;
+    margin-left: 02%;
+    margin-right: 03%;
+ }
+
+ .imagem1 {
+    display: inline-block;
+    width: 42%;
+    height:45%;
+    text-align:right;
+    margin-left: 00%;
+    margin-right: 05%;
+}
+
+.imagem2 {
+    display: inline-block;
+    width: 46%;
+    height:46%;
+    text-align:left; 
+}
+
+.imagem3 {
+    display: inline-block;
+    width: 46%;
+    height:46%;
+    text-align:right;
+    margin-left: 02%;
+    margin-right: 05%;
+}
+
